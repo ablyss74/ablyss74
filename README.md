@@ -1,5 +1,4 @@
 ### Hi there 👋
-⚡ Fun fact: I did not invent the internet
 <br>
 &nbsp; &nbsp; ⚡ ...
 <!--
