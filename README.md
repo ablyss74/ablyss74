@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-- Below you'll find various repos that have interested me; some obsolete, some obscure, some I'm currently updating regularly.
+
 &nbsp; &nbsp; ⚡ ...
 <!--
 **ablyss74/ablyss74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
